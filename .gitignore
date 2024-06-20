@@ -1,3 +1,5 @@
 peri/
 testsimplemodle.ipynb
 .gitignore
+.env
+lightning_logs/
