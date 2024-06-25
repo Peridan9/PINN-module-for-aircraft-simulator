@@ -3,3 +3,4 @@ testsimplemodle.ipynb
 .gitignore
 .env
 lightning_logs/
+.neptune/
