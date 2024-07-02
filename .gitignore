@@ -4,3 +4,10 @@ testsimplemodle.ipynb
 .env
 lightning_logs/
 .neptune/
+predictions_and_actual_data_100.csv
+predictions_and_actual_data_150.csv
+predictions_and_actual_data_300.csv
+predictions_and_actual_data.csv
+test_csv.csv
+window_100.xlsx
+graphs_xx.xlsx
