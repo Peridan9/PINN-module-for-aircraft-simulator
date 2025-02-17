@@ -98,7 +98,7 @@ PINN-module-for-aircraft-simulator/
 
 The chart below highlights the average normalized MSE for key features across models:
 
-![MSE Comparison](results/mse_comparison.png)
+![PINN Performance Comparison](PINN%20graph.png)
 
 - **Baseline Model**: Higher error rates due to lack of physical constraints.
 - **PINN Model**: Achieved the lowest MSE across all features.
