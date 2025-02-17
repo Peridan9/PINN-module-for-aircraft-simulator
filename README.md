@@ -126,7 +126,7 @@ We also demonstrated the rolling prediction mechanism because the end goal is to
 
 ## 📄 Related Articles
 
-[**Link to article (to be added)**]
+[**Project Report (PDF)**](https://github.com/Peridan9/PINN-module-for-aircraft-simulator/blob/main/Project%20Report.pdf)
 
 ---
 
@@ -145,5 +145,3 @@ We also demonstrated the rolling prediction mechanism because the end goal is to
 Feel free to explore the repository and reach out with any questions or suggestions! 😊
 
 More about this project: [GitHub Repository](https://github.com/Peridan9/PINN-module-for-aircraft-simulator/tree/main?tab=readme-ov-file)
-
-
